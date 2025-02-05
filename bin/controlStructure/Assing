@@ -1,0 +1,12 @@
+1. even or odd 
+2. vowel or const. 
+3. greatest of  4 numbers 
+3. check if a number is divisible by 9
+5. print the values 
+      --> get age and first character of their name 
+    --> 1. if age is greater than 18 and the  character is 's'
+                print you are eligible 
+          else 
+              you are not eligbile
+              
+    

@@ -1,0 +1,22 @@
+//minimum spent 3 - 4 hours on this concept 
+1. create an employee class 
+   store data -> int , char float bolean doubel long 
+   and also store some static data 
+   and print it 
+   
+2. create Calcultor class 
+    store int char float boolean 
+    
+3. Create student class and create 10 object and assign values in it 
+
+
+4.V.V DRY-RUN(Only on paper) 
+   -> create an employee class with variable 
+           char name, id, dist, salary;
+           static groupcode like 'a' or b' .. etc
+           create 3 object  and DRY-RUN
+     
+     
+     
+        
+  

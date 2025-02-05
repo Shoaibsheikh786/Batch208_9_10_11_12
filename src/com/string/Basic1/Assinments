@@ -1,0 +1,12 @@
+Don't use inbuilt methods of string ;
+
+1. Wap to find the character is present or not 
+2. Wap to find the length of string
+3. Wap to reverse the string 
+4. Wap to count the vovles ;
+5. Wap to print the substring 
+6. Wap to count letters , characters and special symbols
+7. Wap to find the length of each word in string : hint-> split("");
+8. Wap to find  to print only consonents of your name
+9. Wap to find the highest number in an array _-> int array
+10. Wap to find the smallest number in an array 

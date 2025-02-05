@@ -1,0 +1,23 @@
+ DONT WRITE LOGIC IN MAIN METHOD CREATE SEPRATE METHODS 
+ 
+1. wap to find the factorial of number using methods 
+2. wap to reverse a number using methods
+3. create an employee class with members
+   --> age ,, id , char , salary 
+   --> get the data from main method
+   --print the data in the main methods 
+   
+4. create a student class 
+--> get the roll number , id ,  
+--> to print the values create method in the student class 
+
+
+5. revise the concept of 
+  static , non static ,types of variables, methods , static methods 
+  
+6. wap to find the last digit of a number 
+   and if the digit is greater then 5 print java 
+    else print selenium
+    ....
+minimum write 60 programs till monday on these two concepts 
+class -> variables and methods ,, and alos other programs for pracitce 

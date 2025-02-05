@@ -1,0 +1,21 @@
+1. Wap to find the odd number from an array
+2. wap to add two arrays 
+3. wap to print prime number form 1 to 1000
+4. Reverse a number 
+5. check a number is plaindrome  
+6. create an array 
+  --> store values using while loop
+  --> print values using do-while(), or for loop
+7. pratice type casting, int to float , float to int , 
+8. print the multiplication of given number
+   --> exmaple 9
+    output should be like 
+    9 x 1 = 9
+    9 x 2 = 18
+    9 x 3 = 27
+    9 x 4 = 36
+    9 x 5 = 45
+    ....
+ 9. print only odd number
+ 
+ // 100 Great programmer 
