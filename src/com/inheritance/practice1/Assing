@@ -1,0 +1,14 @@
+1. Wap to create a class for parent class car and child class sports car  inherit the properties 
+from parent to child 
+.. methods ..
+
+2. Calculator and scentific calculator 
+
+3. practice constructor chaining
+
+4. use super() to call explicitly differnt constructs
+
+5. create human class and extend properties to employee and student 
+
+--------------------------------------------------------------------------------------------
+
