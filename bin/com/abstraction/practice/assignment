@@ -1,0 +1,9 @@
+creat an interface vehicle create abstract methods fueltyp() start() stopEnginer()
+  --> create 2 classes bike and car 
+  and implemtn them in those classes 
+   
+create an abract class Account and defin some abstract  methods , like intreset() , minumbalance()
+and some non-abstract 
+
+--> create two classes saving and current accoutn 
+and extedns the class Account and provide the definition of the methods
